@@ -6,8 +6,15 @@
     <description>Recent content on Steve</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 07:43:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:39:55 +0000</lastBuildDate>
     <atom:link href="//localhost:1234/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post from decap</title>
+      <link>//localhost:1234/posts/post-from-decap/</link>
+      <pubDate>Wed, 20 May 2026 04:39:55 +0000</pubDate>
+      <guid>//localhost:1234/posts/post-from-decap/</guid>
+      <description>With rich text </description>
+    </item>
     <item>
       <title>This is the title</title>
       <link>//localhost:1234/posts/this-is-the-title/</link>
