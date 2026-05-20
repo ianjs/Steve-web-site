@@ -1,4 +1,9 @@
 {
+  "engines": {
+    "node": ">=22"
+  }
+}
+{
   "name": "one-click-hugo-cms",
   "version": "1.0.0",
   "description": "Hugo template with Decap CMS ",
