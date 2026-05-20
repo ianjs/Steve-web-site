@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Steve</title>
+    <link>//localhost:1234/posts/</link>
+    <description>Recent content in Posts on Steve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2026 07:43:37 +0000</lastBuildDate>
+    <atom:link href="//localhost:1234/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the title</title>
+      <link>//localhost:1234/posts/this-is-the-title/</link>
+      <pubDate>Tue, 19 May 2026 07:43:37 +0000</pubDate>
+      <guid>//localhost:1234/posts/this-is-the-title/</guid>
+      <description>Second post/</description>
+    </item>
+    <item>
+      <title>Here we go...</title>
+      <link>//localhost:1234/posts/here-we-go/</link>
+      <pubDate>Tue, 19 May 2026 07:35:43 +0000</pubDate>
+      <guid>//localhost:1234/posts/here-we-go/</guid>
+      <description>Here&amp;rsquo;s the first page Steve! The above is a heading and this is just normal text.</description>
+    </item>
+  </channel>
+</rss>

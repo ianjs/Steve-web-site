@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve</title>
+    <link>//localhost:1234/</link>
+    <description>Recent content on Steve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2026 07:43:37 +0000</lastBuildDate>
+    <atom:link href="//localhost:1234/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the title</title>
+      <link>//localhost:1234/posts/this-is-the-title/</link>
+      <pubDate>Tue, 19 May 2026 07:43:37 +0000</pubDate>
+      <guid>//localhost:1234/posts/this-is-the-title/</guid>
+      <description>Second post/</description>
+    </item>
+    <item>
+      <title>Here we go...</title>
+      <link>//localhost:1234/posts/here-we-go/</link>
+      <pubDate>Tue, 19 May 2026 07:35:43 +0000</pubDate>
+      <guid>//localhost:1234/posts/here-we-go/</guid>
+      <description>Here&amp;rsquo;s the first page Steve! The above is a heading and this is just normal text.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1234/blog/first-post/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1234/blog/first-post/</guid>
+      <description>Hello world!</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1234/_about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1234/_about/</guid>
+      <description>Hi, I&amp;rsquo;m Steve. This is my blog.</description>
+    </item>
+  </channel>
+</rss>
